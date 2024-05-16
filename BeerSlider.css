@@ -135,10 +135,12 @@
 
 .beer-slider[data-beer-label]:after {
     right: 1.5rem
+    display: none;
 }
 
 .beer-reveal[data-beer-label]:after {
     left: 1.5rem
+    display: none;
 }
 
 .beer-reveal[data-beer-label=""]:after,
