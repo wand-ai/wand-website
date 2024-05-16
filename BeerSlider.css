@@ -124,7 +124,7 @@
 
 .beer-reveal[data-beer-label]:after,
 .beer-slider[data-beer-label]:after {
-    background: hsla(0, 0%, 100%, .75);
+    background: hsla(0, 0%, 0%, 0);
     border-radius: .125rem;
     content: attr(data-beer-label);
     line-height: 1;
